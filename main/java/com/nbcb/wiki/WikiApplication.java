@@ -7,6 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.core.env.Environment;
 
 @SpringBootApplication
+
 public class WikiApplication {
 	private static  final Logger LOG=LoggerFactory.getLogger(WikiApplication.class);
 	public static void main(String[] args) {
